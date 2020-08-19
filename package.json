@@ -1,0 +1,27 @@
+{
+  "name": "greet-npm",
+  "version": "1.0.0",
+  "description": "Hello world NPM package",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "cli": "node index.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "greeter"
+  ],
+  "author": "Meet Patel",
+  "license": "MIT",
+  "dependencies": {
+    "enquirer": "^2.3.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meet59patel/pmm-framework-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/meet59patel/pmm-framework-cli/issues"
+  },
+  "homepage": "https://github.com/meet59patel/pmm-framework-cli#readme"
+}

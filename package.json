@@ -1,6 +1,6 @@
 {
   "name": "greet-npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hello world NPM package",
   "main": "index.js",
   "bin": "index.js",

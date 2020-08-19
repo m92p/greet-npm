@@ -8,6 +8,13 @@ async function greet(){
     }).run();
     
     console.log(`Hello ${name}! Welcome to the test npm package!`);
+
+    let pizza = await new Select({
+        message: "Shall we have some pizza? ",
+        choices: ['Yes', 'No']
+    }).run();
+    if(pizza === "Yes") console.log("Let's have some!");
+    else console.log("Nevermind!");
 }
 
 greet();

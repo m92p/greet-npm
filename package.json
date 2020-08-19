@@ -1,6 +1,6 @@
 {
   "name": "greet-npm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Hello world NPM package",
   "main": "index.js",
   "bin": "index.js",
@@ -18,10 +18,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/meet59patel/greet-npm.git"
+    "url": "git+https://github.com/m92p/greet-npm.git"
   },
   "bugs": {
-    "url": "https://github.com/meet59patel/greet-npm/issues"
+    "url": "https://github.com/m92p/greet-npm/issues"
   },
-  "homepage": "https://github.com/meet59patel/greet-npm#readme"
+  "homepage": "https://github.com/m92p/greet-npm#readme"
 }

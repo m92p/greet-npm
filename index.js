@@ -15,6 +15,8 @@ async function greet(){
     }).run();
     if(pizza === "Yes") console.log("Let's have some!");
     else console.log("Nevermind!");
+
+    console.log("Bye...");
 }
 
 greet();
